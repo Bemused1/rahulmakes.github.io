@@ -15,7 +15,7 @@ index {
 
 h1 {
 	padding: 60px;
-	font-size: 54px;
+	font-size: 40px;
 	background-image: url('titlebaro.jpg');
 	background-position: center top;
 	background-size: cover;
@@ -105,6 +105,8 @@ footer {
 img.one {
 	
 	margin: 10px;
+    width:120px;
+    height:120px;
 }
 
 img.two {
