@@ -1,0 +1,121 @@
+body {
+	font-family: Palatino, 'Palatino Linotype', serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+
+	
+	
+}
+
+index {
+	
+}
+
+h1 {
+	padding: 60px;
+	font-size: 54px;
+	background-image: url('titlebaro.jpg');
+	background-position: center top;
+	background-size: cover;
+}
+
+h2 {
+	margin-bottom: 100px;
+	color: 000000;
+	font-size: 1.5em; 
+	display: block;
+
+}
+
+a {
+	display: block;
+	padding: 20px;
+	margin: 10px;
+	text-decoration: none;
+	color: black;
+}
+
+a.two {
+	display: block;
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+	color: blue;
+}
+
+
+.hero {
+	background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg');
+	background-position: center top;
+	background-size: cover;
+	padding: 250px 0;
+	margin: 30px;
+	text-shadow: 0 2px #000000;
+	font-family: 'Trebuchet MS', 'Helvetica';
+}
+
+
+p {
+	color: #000000;
+	font-size: 1em;
+	font-family: Palatino, 'Palatino Linotype', serif;
+	margin-right: 160px;
+	margin-left: 160px;
+	margin-bottom: 100px;
+	/*background-image: url('background.jpg');*/
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+footer {
+
+	margin-top: 100px;
+	color: DarkSlateGray;
+	font-size: 16px;
+	background-image: url('footbaro.jpg');
+	text-decoration: none;
+
+}
+
+.contact-btn {
+  float: center;
+}
+
+.contact-btn a {
+  cursor: pointer;
+  margin-right: 600px;
+  margin-left: 600px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+  position: relative;
+
+}
+
+.contact-btn a:active {
+    top: 2px;
+
+}
+
+img.one {
+	
+	margin: 10px;
+}
+
+img.two {
+	margin: 10px;
+
+}
+
+.floated_img
+{
+    float: left;
+    max-width: 480px;
+    max-height: 650px;
+}
+
