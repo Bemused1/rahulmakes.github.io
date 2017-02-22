@@ -1,13 +1,17 @@
 body {
 	font-family: Palatino, 'Palatino Linotype', serif;
+	color: white;
 	height: 100%;
 	margin: 0;
 	text-align: center;
 	width: 100%;
+	font-size: 100%;
 
 	
 	
 }
+
+
 
 
 
@@ -66,12 +70,17 @@ a.two {
 
 p {
 	color: #000000;
-	font-size: 1em;
-	font-family: Palatino, 'Palatino Linotype', serif;
 	margin-right: 160px;
 	margin-left: 160px;
 	margin-bottom: 100px;
-	/*background-image: url('background.jpg');*/
+	background-color: #FFFFFF;
+    padding: 0.5em 1em;
+    box-decoration-break: clone;
+    opacity: 0.3;
+    font-style: normal;
+    font-size: 1.5em;
+    font-weight: bold;
+
 }
 
 .hero a {
