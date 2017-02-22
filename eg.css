@@ -116,6 +116,15 @@ img.one {
     height:120px;
 }
 
+img.four {
+	
+ float: center;
+ width:750px;
+ height:562.5px;
+
+   
+}
+
 img.three {
 	position: absolute;
     top: 400px;
