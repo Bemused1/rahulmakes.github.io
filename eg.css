@@ -134,6 +134,38 @@ img.four {
    
 }
 
+img.five {
+	
+ position: absolute;
+ top: 800px;
+ right: 800px;
+ width:60px;
+ height:60px;
+
+   
+}
+
+img.six {
+	
+ position: absolute;
+ top: 800px;
+ right: 700px;
+ width:60px;
+ height:60px;
+
+   
+}
+img.seven {
+	
+ position: absolute;
+ top: 800px;
+ right: 600px;
+ width:60px;
+ height:60px;
+
+   
+}
+
 img.three {
 	position: absolute;
     top: 400px;
