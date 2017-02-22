@@ -9,15 +9,22 @@ body {
 	
 }
 
-index {
-	
-}
+
 
 h1 {
 	padding: 60px;
 	font-size: 40px;
 	/*background-image: url('titlebaro.jpg');*/
 	background-position: center top;
+	background-size: cover;
+}
+
+
+h3 {
+	padding: 60px;
+	font-size: 40px;
+	/*background-image: url('titlebaro.jpg');*/
+	float: left;
 	background-size: cover;
 }
 
@@ -108,6 +115,15 @@ img.one {
     width:120px;
     height:120px;
 }
+
+img.three {
+	position: absolute;
+    top: 400px;
+    right: 400px;
+}
+
+
+
 
 img.two {
 	margin: 10px;
