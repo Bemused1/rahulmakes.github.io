@@ -217,13 +217,16 @@ img.free {
  }
  .circle-container img { display: block; width: 100%; }
  .deg0 { transform: translate(20em); } /* 12em = half the width of the wrapper */
- .deg22_5 { transform: rotate(22.5deg) translate(20em) rotate(-22.5deg); }
- .deg45 { transform: rotate(45deg) translate(20em) rotate(-45deg); }
- .deg135 { transform: rotate(135deg) translate(20em) rotate(-135deg); }
+ .deg36 { transform: rotate(36deg) translate(20em) rotate(-36deg); }
+ .deg72 { transform: rotate(72deg) translate(20em) rotate(-72deg); }
+ .deg108 { transform: rotate(108deg) translate(20em) rotate(-108deg); }
+ .deg144 { transform: rotate(144deg) translate(20em) rotate(-144deg); }
  .deg180 { transform: translate(-20em); }
- .deg225 { transform: rotate(225deg) translate(20em) rotate(-225deg); }
- .deg315 { transform: rotate(315deg) translate(20em) rotate(-315deg); }
- .deg337_5 { transform: rotate(337.5deg) translate(20em) rotate(-337.5deg); }
+ .deg216 { transform: rotate(216deg) translate(20em) rotate(-216deg); }
+ .deg252 { transform: rotate(252deg) translate(20em) rotate(-252deg); }
+ .deg288 { transform: rotate(288deg) translate(20em) rotate(-288deg); }
+ .deg324 { transform: rotate(324deg) translate(20em) rotate(-324deg); }
+ .deg360 { transform: rotate(360deg) translate(20em) rotate(-360deg); }
 
  /* this is just for showing the angle on hover */
  .circle-container a:not(.center):before {
