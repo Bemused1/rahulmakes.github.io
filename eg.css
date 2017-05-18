@@ -216,16 +216,16 @@ img.free {
  	margin: -2em; /* 2em = 4em/2 */ /* half the width */
  }
  .circle-container img { display: block; width: 100%; }
- .collaboration { transform: translate(20em); } /* 12em = half the width of the wrapper */
- .stories { transform: rotate(36deg) translate(20em) rotate(-36deg); }
- .final { transform: rotate(72deg) translate(20em) rotate(-72deg); }
- .culture_context { transform: rotate(108deg) translate(20em) rotate(-108deg); }
- .seeing { transform: rotate(144deg) translate(20em) rotate(-144deg); }
- .concepts { transform: translate(-20em); }
- .design_process { transform: rotate(216deg) translate(20em) rotate(-216deg); }
- .iteration { transform: rotate(252deg) translate(20em) rotate(-252deg); }
- .constraints { transform: rotate(288deg) translate(20em) rotate(-288deg); }
- .failure { transform: rotate(324deg) translate(20em) rotate(-324deg); }
+ .deg0 { transform: translate(20em); } /* 12em = half the width of the wrapper */
+ .deg36 { transform: rotate(36deg) translate(20em) rotate(-36deg); }
+ .deg72 { transform: rotate(72deg) translate(20em) rotate(-72deg); }
+ .deg108 { transform: rotate(108deg) translate(20em) rotate(-108deg); }
+ .deg144 { transform: rotate(144deg) translate(20em) rotate(-144deg); }
+ .deg180 { transform: translate(-20em); }
+ .deg216 { transform: rotate(216deg) translate(20em) rotate(-216deg); }
+ .deg252 { transform: rotate(252deg) translate(20em) rotate(-252deg); }
+ .deg288 { transform: rotate(288deg) translate(20em) rotate(-288deg); }
+ .deg324 { transform: rotate(324deg) translate(20em) rotate(-324deg); }
  .deg360 { transform: rotate(360deg) translate(20em) rotate(-360deg); }
 
  /* this is just for showing the angle on hover */
